@@ -26,4 +26,4 @@ const wordSearch = (letters, word) => {
   return false; //It means the element was not found in the Array
 };
 
-
+//worked on this paired programming with @mary-a1 and @ashakyassin
